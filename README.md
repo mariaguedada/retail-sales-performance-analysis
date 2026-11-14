@@ -1,4 +1,18 @@
-## Sales by Product Category
+
+## Data Visualizations
+
+### 1. Sales by Product Category
+![Category Sales](sales_by_category.png)
+
+### 2. Monthly Sales Trend
+![Monthly Sales](monthly_sales.png)
+
+### 3. Transaction Distribution
+![Transaction Distribution](transaction_distribution.png)
+
+### 4. Transaction Boxplot
+![Transaction Boxplot](transaction_boxplot.png)
+  ## Sales by Product Category
 
 ![Sales by Product Category](sales_by_category.png)# retail-sales-performance-analysis
 Sales data analysis using Python, Pandas and data visualization.
