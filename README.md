@@ -1,4 +1,10 @@
+## Sales by Product Category
 
+# retail-sales-performance-analysis Sales data analysis using Python, Pandas and data visualization.
+
+# Retail Sales Performance Analysis## Sales by Product Category
+
+# retail-sales-performance-analysis Sales data analysis using Python, Pandas and data visualization.
 ## Data Visualizations
 
 ### 1. Sales by Product Category
